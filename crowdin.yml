@@ -1,0 +1,16 @@
+"preserve_hierarchy": true
+
+"base_path": "."
+
+"export_languages": [
+    "ru",
+    "es"
+]
+
+files: [
+  {
+    "source": "/en/text.xml",
+    "translation": "/%android_code%/%original_file_name%",
+    "dest": "text.xml"
+  }
+]
